@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?><MD_Metadata xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:xalan="http://xml.apache.org/xalan" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xmlns="http://www.isotc211.org/2005/gmd">
+    <fileIdentifier>
+        <gco:CharacterString>d9e09280a3384c4cb48cd508685da00b</gco:CharacterString>
+    </fileIdentifier>
+    <characterSet>
+        <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+    </characterSet>
+    <hierarchyLevel>
+        <MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+    </hierarchyLevel>
+    <hierarchyLevelName>
+        <gco:CharacterString>dataset</gco:CharacterString>
+    </hierarchyLevelName>
+    <contact>
+        <CI_ResponsibleParty>
+            <role>
+                <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+            </role>
+        </CI_ResponsibleParty>
+    </contact>
+    <dateStamp>
+        <gco:Date>2020-06-16</gco:Date>
+    </dateStamp>
+    <metadataStandardName>
+        <gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+    </metadataStandardName>
+    <metadataStandardVersion>
+        <gco:CharacterString>2007</gco:CharacterString>
+    </metadataStandardVersion>
+    <identificationInfo>
+        <MD_DataIdentification>
+            <citation>
+                <CI_Citation>
+                    <title>
+                        <gco:CharacterString>Tasa de repitencia en el sector oficial desde transicion hasta grado once</gco:CharacterString>
+                    </title>
+                    <date gco:nilReason="missing"/>
+                </CI_Citation>
+            </citation>
+            <abstract>
+                <gco:CharacterString>Indica para el año 2013, el porcentaje de alumnos matriculados desde transición a grado once que reprobaron el año escolar y no pueden ser promovidos el año siguiente.La repitencia o reprobación se da cuando los alumnos terminan su año escolar pero en su evaluación se determina que el nivel de conocimiento adquirido en los programas curriculares no es suficiente para ser promovidos al siguiente año escolar. El bajo rendimiento educativo que se refleja en las tasas de repitencia está asociado, en muchas oportunidades, con el entorno familiar y socioeconómico en que se desenvuelven los infantes, falta de apoyo afectivo, desentendimiento de los padres frente a la educación de los hijos, desnutrición, desadaptación escolar, inadecuadas condiciones de la vivienda, etc., son factores que necesariamente afectan el desempeño de los niños en el sistema escolar e incluso su permanencia en él. El sector oficial, en donde se concentra la población pobre, presenta los mayores niveles de ineficiencia interna por este concepto; mientras que en el sector privado las tasas de repitencia se encuentran en un rango bajo y en ningún grado superan el 3%, en el sector oficial, en primer grado sobrepasan el 10%. El costo económico y social de la repitencia, tanto para padres e hijos, en particular los más pobres, como para el Estado es enorme. Información tomada del Boletín # 28 “Eficiencia del Sistema Educativo: Perfiles departamentales” – DNP, Departamento Nacional de Planeación. Fuente:MEN - Ministerio de Educación Nacional Fecha de consulta: 13 de Julio 2015Descripción de los atributos ingrese a:http://geoservices.esri.co/arcgis/rest/services/DA_DatosAbiertos/Tasa_repitencia_sector_oficial_transicion_grado_once/MapServer/0</gco:CharacterString>
+            </abstract>
+            <purpose>
+                <gco:CharacterString>Indica para el año 2013, el porcentaje de alumnos matriculados desde transición a grado once que reprobaron el año escolar y no pueden ser promovidos el año siguiente.</gco:CharacterString>
+            </purpose>
+            <credit>
+                <gco:CharacterString>SINFONIA, UNICEF, EQ SOCIAL, ESRI COLOMBIA , MEN - Ministerio de Educación Nacional</gco:CharacterString>
+            </credit>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>SINFONIA</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>UNICEF</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>EQ Social</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Colombia</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Educación</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>DANE</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Ministerio de Educación</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>SINFONIA</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>UNICEF</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>EQ Social</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Colombia</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Educación</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>DANE</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Ministerio de Educación</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>SINFONIA</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>UNICEF</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>EQ Social</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Colombia</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Educación</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>DANE</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Ministerio de Educación</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>SINFONIA</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>UNICEF</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>EQ Social</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Colombia</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Educación</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>DANE</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Ministerio de Educación</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>SINFONIA</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>UNICEF</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>EQ Social</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Colombia</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Educación</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>DANE</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Ministerio de Educación</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>SINFONIA</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>UNICEF</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>EQ Social</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Colombia</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Educación</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>DANE</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Ministerio de Educación</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>SINFONIA</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>UNICEF</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>EQ Social</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Colombia</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Educación</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>DANE</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Ministerio de Educación</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <resourceConstraints>
+                <MD_Constraints>
+                    <useLimitation>
+                        <gco:CharacterString>Este aviso legal recoge las
+condiciones generales que rigen la consulta, uso, almacenamiento o
+reutilización de información generada por entidades públicas de la Republica de
+Colombia bajo el esquema Open Data, filosofía que tiene como finalidad poner a disposición
+de la sociedad los datos que gestiona la administración pública en formatos
+fáciles de manipular y la cual fue desarrollada por la ley 1712 de 2014 que
+tiene por objeto regular el derecho de acceso a la información pública, los
+procedimientos para el ejercicio y garantía del derecho y las excepciones a la
+publicidad de información.
+
+Se aclara que la información aquí
+contenida tiene el carácter de Pública y que puede ser objeto de modificación
+y/o actualización constante; así mismo la utilización, reproducción,
+modificación o distribución de los datos impone la obligación de reconocer la
+autoría de los mismos así como la de citar a la fuente.
+
+Pese al esfuerzo desplegado para
+la gestión de los datos que se ponen a disposición en este portal, Esri Colombia
+S.A.S no da ningún tipo de garantía respecto a los datos publicados ni asegura
+su integridad, actualización, precisión o acceso continuo a los mimos. Aunado a
+esto Esri Colombia S.A.S. no se hace responsable de los daños o pérdidas que,
+de forma directa o indirecta acarreen perjuicios económicos, materiales o
+morales sobre datos, desarrollos, sistemas, aplicaciones y en general cualquier
+producto obtenido del uso de los datos dispuestos en este portal por lo que su
+utilización se realizara bajo su propia cuenta y riesgo.
+
+No esta permitido emplear el
+Nombre de Esri Colombia como participe, patrocinador o promotor del uso o
+reproducción que se haga sobre los datos aquí dispuestos debiéndose abstener de
+realizar cualquier mención escrita, gráfica, visual o auditiva o de cualquier
+otra naturaleza que puedan causar confusión en el usuario final, de la
+participación o apoyo por Esri Colombia.
+
+ </gco:CharacterString>
+                    </useLimitation>
+                </MD_Constraints>
+            </resourceConstraints>
+            <language gco:nilReason="missing"/>
+            <characterSet>
+                <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+            </characterSet>
+        </MD_DataIdentification>
+    </identificationInfo>
+    <distributionInfo>
+        <MD_Distribution>
+            <transferOptions>
+                <MD_DigitalTransferOptions>
+                    <onLine>
+                        <CI_OnlineResource>
+                            <linkage>
+                                <URL>https://ags.esri.co/server/rest/services/DA_DatosAbiertos/Tasa_repitencia_sector_oficial_transicion_grado_once/MapServer/0</URL>
+                            </linkage>
+                        </CI_OnlineResource>
+                    </onLine>
+                </MD_DigitalTransferOptions>
+            </transferOptions>
+        </MD_Distribution>
+    </distributionInfo>
+</MD_Metadata>
